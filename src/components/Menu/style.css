@@ -1,0 +1,7 @@
+.header_content{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:16px;
+    gap:8px;
+}
